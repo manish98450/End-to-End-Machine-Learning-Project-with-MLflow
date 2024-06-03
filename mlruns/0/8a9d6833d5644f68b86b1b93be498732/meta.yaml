@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/End-to-End-Machine-Learning-Project-with-MLflow/mlruns/0/8a9d6833d5644f68b86b1b93be498732/artifacts
+end_time: 1715346610268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a9d6833d5644f68b86b1b93be498732
+run_name: classy-fawn-779
+run_uuid: 8a9d6833d5644f68b86b1b93be498732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715346606337
+status: 3
+tags: []
+user_id: Mp908

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/End-to-End-Machine-Learning-Project-with-MLflow/mlruns/0/0ddb0d276e0846a2b252878b383daec3/artifacts
+end_time: 1715345876160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ddb0d276e0846a2b252878b383daec3
+run_name: enthused-moth-85
+run_uuid: 0ddb0d276e0846a2b252878b383daec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715345871037
+status: 3
+tags: []
+user_id: Mp908
